@@ -1,0 +1,36 @@
+.consulta-bancos-container {
+    padding: 20px; /* Adiciona preenchimento interno */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #282729;
+    width: 100vw;
+    justify-content: center;
+    height: 80vh;
+    left: 60%;
+}
+
+.logorevgas {
+    width: 250px; /* Define a largura da imagem */
+    height: auto; /* Mantém a proporção da imagem */
+    margin-bottom: 20px; /* Adiciona margem inferior para separar a imagem do resto do conteúdo */
+    top: 25%;
+    left: 50%;
+}
+
+.form-group {
+    margin-bottom: 20px; /* Adiciona margem inferior para separar os campos do formulário */
+    top: 50%;
+    left: 50%;
+
+}
+
+.table {
+    margin-top: 20px; /* Adiciona margem superior para separar a tabela do formulário */
+}
+
+.table td,
+.table th {
+    padding: 10px; /* Adiciona preenchimento interno nas células da tabela */
+}
